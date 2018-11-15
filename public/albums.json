@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "artist": "Death",
+    "title": "Leprosy",
+    "artwork": "/img/death_leprosy.jpeg"
+  },
+  {
+    "id": 2,
+    "artist": "Malevolent Creation",
+    "title": "The Ten Commandments",
+    "artwork": "/img/malevolent-creation_ten-commandments.jpeg"
+  },
+  {
+    "id": 3,
+    "artist": "Entombed",
+    "title": "Left Hand Path",
+    "artwork": "/img/entombed_left-hand-path.jpeg"
+  },
+  {
+    "id": 4,
+    "artist": "Gorguts",
+    "title": "The Erosion of Sanity",
+    "artwork": "/img/gorguts_erosion-of-sanity.jpeg"
+  },
+  {
+    "id": 5,
+    "artist": "Death",
+    "title": "Human",
+    "artwork": "/img/death_human.jpeg"
+  },
+  {
+    "id": 6,
+    "artist": "Pestilence",
+    "title": "Testimony of the Ancients",
+    "artwork": "/img/pestilence_testimony-of-the-ancients.jpeg"
+  },
+  {
+    "id": 7,
+    "artist": "Suffocation",
+    "title": "Breeding the Spawn",
+    "artwork": "/img/suffocation_breeding-the-spawn.jpeg"
+  },
+  {
+    "id": 8,
+    "artist": "Edge of Sanity",
+    "title": "The Spectral Sorrows",
+    "artwork": "/img/edge-of-sanity_spectral-sorrows.jpeg"
+  },
+  {
+    "id": 9,
+    "artist": "Entombed",
+    "title": "Clandestine",
+    "artwork": "/img/entombed_clandestine.jpeg"
+  }
+]
